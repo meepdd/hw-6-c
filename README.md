@@ -1,5 +1,7 @@
 # hw-6-c
-finally
+PS: 
+The last homework assignment on C. Honestly, the OOP would have been even easier. There will be more to come, but I'm tired of 0 for just not being able to defend my homework. A certain Dog Shishkin doesn't do his homework - gets a 0. Turned in his homework, but failed to answer the questions "How many turtles can the function count the number of iterations of repeating dishes as porridge?" - 0. Other students: "What is a pointer? You don't know, okay, I'll give you an "5"."  Also, some get one homework question, some get all 20 questions on one homework question. "Well, I can see that you know, I won't ask." Thank you. Very honest. 
+Hashtags: Sirius College Moment
 
 #### Task 1
 C помощью функции `scanf` считываются четыре целых числа `a`, `b`, `c` и `d`. Далее вычисляется первое число `x`, которое даёт остаток `c` при делении на `d` и находится в диапазоне от `a` до `b`. Это можно сделать так: `(a + d - c % d) % d + c`.
@@ -32,4 +34,4 @@ C помощью функции `scanf`число  и сохраняет в пе
 #### Task 5
 Функция `ispolnitel` принимает на вход число `num`. Внутри функции извлекаются цифры `a`, `b` и `c` из `num`. Затем вычисляются произведения `ab` и `bc`. Если `bc` оказывается больше `ab`, то произведения меняют местами. Затем полученные произведения объединяются в новое число `result` в порядке невозрастания.
 
-В `main` объявляется переменная `num`. Затем с помощью `scanf` считывается значение `num`. Затем вызывается функция `ispolnitel`, которая вычисляет результат работы исполнителя. Этот результат выводится с помощью `printf`.
+В `main` объявляется переменная `num`. Затем с помощью `scanf` считывается значение `num`. Затем вызывается функция `ispolnitel`, которая вычисляет результат работы исполнителя. Этот результат выводится с помощью `printf`
